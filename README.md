@@ -73,7 +73,8 @@ PSCustomObject
   * [CredentialManager on GitHub](https://github.com/davotronic5000/PowerShell_Credential_Manager)
 * [PowerShell: About Regular Expressions](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_regular_expressions?view=powershell-7)
 * [Regular Expression Language - Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
-* [TypingClub]
+* [TypingClub](https://www.typingclub.com/)
+* [Pester](https://github.com/Pester/Pester)
 
 # TODO
 
